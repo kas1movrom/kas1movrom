@@ -3,7 +3,9 @@
 <h3>Get in touch:</h3>
 <a href="https://vk.com/id819340724" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: id819340724" height="25" width="30" style="max-width: 100%;"></a>
 <a href="https://t.me/kasimovrom" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @kasimovrom" height="25" width="30" style="max-width: 100%;"></a>
-<br>
+
+<p dir="auto"></p>
+
 ![](https://komarev.com/ghpvc/?username=kas1movrom)
 
 
