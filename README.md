@@ -22,7 +22,7 @@
 
 <p dir="auto"></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kas1movrom&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
 
 
 <!--
