@@ -18,7 +18,8 @@
 
 <p dir="auto"></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kas1movrom)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=kas1movrom&show_icons=true&title_color=00ff00&text_color=ffffff&bg_color=000000&icon_color=79ff97&border_radius=10)
+
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
