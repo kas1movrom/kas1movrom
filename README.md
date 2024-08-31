@@ -10,7 +10,11 @@
 
 <p dir="auto">Hi, I'm <strong>Roman</strong>, student of 🔑 <strong>Information Security</strong> MEPhI 🌐 from Russia, at just 19 years 👶 old.</p>
 
-
+<ul dir="auto">
+<li>💻 <strong>Studying:</strong> Currently learning Python, DevOps technologies and Information Security.</li>
+<li>⚽ <strong>Hobbies:</strong> Play and watch football, support 🐦 <strong>Liverpool</strong>.</li>
+<li>🎯 <strong>Goals:</strong> Upgrade my skills, become DevOps Engineer.</li>
+</ul>
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
