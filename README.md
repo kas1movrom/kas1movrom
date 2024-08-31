@@ -3,7 +3,7 @@
 <h3>Get in touch:</h3>
 <a href="https://vk.com/id819340724" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: maxbarsukov" height="25" width="30" style="max-width: 100%;"></a>
 <a href="https://t.me/kasimovrom" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" style="max-width: 100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/caa2ad6f685c026f297dca9d8dd21a18e09eee90d1bc389d8a8614631d91b282/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6b6f6c6f6d69696b61267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/caa2ad6f685c026f297dca9d8dd21a18e09eee90d1bc389d8a8614631d91b282/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6b6f6c6f6d69696b61267374796c653d666c61742d737175617265" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=kas1movrom&amp;style=flat-square" style="max-width: 100%;"></a>
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
