@@ -2,7 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Information Security student of MEPhI from Russia</h3>
 
+<h3>Get in touch:</h3>
+
 <a href="https://vk.com/id819340724" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: maxbarsukov" height="25" width="30" style="max-width: 100%;"></a>
+<a href="https://t.me/kasimovrom" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" style="max-width: 100%;"></a>
+
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
