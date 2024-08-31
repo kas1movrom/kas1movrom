@@ -18,7 +18,7 @@
 
 <p dir="auto"></p>
 
-![](https://github-readme-stats.vercel.app/api?username=kas1movrom&show_icons=true&title_color=0000ff&text_color=ffffff&bg_color=000000&icon_color=79ff97&border_radius=10)
+![](https://github-readme-stats.vercel.app/api?username=kas1movrom&show_icons=true&title_color=0000ff&text_color=ffffff&bg_color=000000&icon_color=00ffff&border_radius=10)
 
 
 <!--
