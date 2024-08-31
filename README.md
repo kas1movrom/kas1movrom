@@ -13,7 +13,7 @@
 <ul dir="auto">
 <li>💻 <strong>Studying:</strong> Currently learning Python, DevOps technologies and Information Security.</li>
 <li>⚽ <strong>Hobbies:</strong> Play and watch football, support 🐦 <strong>Liverpool</strong>.</li>
-<li>🎯 <strong>Goals:</strong> Upgrade my skills, become DevOps Engineer.</li>
+<li>🎯 <strong>Goals:</strong> Upgrade my hard skills, find a job as a DevOps engineer.</li>
 </ul>
 
 <!--
