@@ -20,6 +20,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kas1movrom&show_icons=true&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
 
+<p dir="auto"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
+
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
