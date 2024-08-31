@@ -16,6 +16,8 @@
 <li>🎯 <strong>Goals:</strong> Upgrade my hard skills, find a job as a DevOps engineer.</li>
 </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kas1movrom)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
