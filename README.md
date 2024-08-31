@@ -24,6 +24,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kas1movrom&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=000000&icon_color=00BFFF&border_radius=10)
 
+<p dir="auto">You can find my <strong>huge</strong> 💡 projects in the following way:</p>
+<ul dir="auto">
+<li>💽 <strong>oop/cpu/:</strong> Application simulating execution low-level processor programs language.</li>
+<li>📈 <strong>AaDS/lab5/:</strong> Graph-based maze.</li>
+</ul>
 
 <!--
 **kas1movrom/kas1movrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
