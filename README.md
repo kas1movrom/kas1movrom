@@ -16,6 +16,8 @@
 <li>🎯 <strong>Goals:</strong> Upgrade my hard skills, find a job as a DevOps engineer.</li>
 </ul>
 
+<p dir="auto"></p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kas1movrom)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
