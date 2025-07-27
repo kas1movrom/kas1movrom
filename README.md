@@ -8,12 +8,12 @@
 
 ![](https://komarev.com/ghpvc/?username=kas1movrom)
 
-<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 🔑 <strong>Information Security</strong> MEPhI 🌐 from Russia, at just 19 years 👶 old.</p>
+<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 🔑 <strong>Information Security</strong> MEPhI 🌐 from Russia, at just 20 years 👶 old.</p>
 
 <ul dir="auto">
-<li>💻 <strong>Studying:</strong> Currently learning Python, DevOps technologies and Information Security.</li>
+<li>💻 <strong>Studying:</strong> Currently learning Python, Go, DevOps technologies and Information Security.</li>
 <li>⚽ <strong>Hobbies:</strong> Play and watch football, support 🐦 <strong>Liverpool</strong>.</li>
-<li>🎯 <strong>Goals:</strong> Upgrade my hard skills, find a job as a DevOps engineer.</li>
+<li>🎯 <strong>Goals:</strong> Upgrade my hard skills as Software Engineer.</li>
 </ul>
 
 <p dir="auto"></p>
