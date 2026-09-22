@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=kas1movrom)
 
-<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 🔑 <strong>Information Security</strong> MEPhI 🌐 from Russia, at just 21 years 👶 old.</p>
+<p dir="auto">Hi, I'm <strong>Roman</strong>, student of 🔑 <strong>Information Security</strong> MEPhI 🌐 from Russia.</p>
 
 <ul dir="auto">
 <li>💻 <strong>Studying:</strong> Currently intrested in Backend, SRE, ML/DevOps.</li>
